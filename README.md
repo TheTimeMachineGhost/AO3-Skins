@@ -14,11 +14,19 @@ Written with CSS.
 
 <img width="837" height="881" alt="屏幕截图 2026-06-17 175845" src="https://github.com/user-attachments/assets/375f0710-c801-4ee4-a4c0-7048771971e3" />
 
-## How to use
+## How To Use
 
 复制粘贴。
 
 Ctrl+C & Ctrl+V
+
+## Update Record
+
+8.6.2026: version 1.2
+
+去掉了一些冗余代码，更新了kudos按键的边框样式
+
+Removed the needless codes, updated the style of the "Kudos" button.
 
 ## Trivia
 
