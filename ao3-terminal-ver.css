@@ -3,8 +3,8 @@ body,
 #outer,
 #inner,
 #main {
-  background: #000000 !important;
-  color: #FFFFFF !important;
+  background: #000000;
+  color: #FFFFFF;
 }
 
 #header h1 sup,
@@ -16,7 +16,7 @@ body,
 }
 
 #header:before {
-  content: "AO3 Terminal Version 1.1";
+  content: "AO3 Terminal Version 1.2";
   display: block;
   font-family: "Cascadia Mono", monospace;
   font-size: 2em;
@@ -98,7 +98,7 @@ table,
 
 .comment_error,
 .kudos_error {
-  border-left: 2px solid #FFFFFF;
+  border-left: 1px solid #FFFFFF;
 }
 
 #header .actions a:hover,
